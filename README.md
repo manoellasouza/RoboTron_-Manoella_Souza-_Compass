@@ -1,4 +1,4 @@
-# RoboTron_-Manoella_Souza-_Compass
+# RoboTron_Manoella_Souza_Compass
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/manoellasouza/RoboTron_-Manoella_Souza-_Compass/blob/main/LICENSE) 
 
 ## Sobre o projeto
