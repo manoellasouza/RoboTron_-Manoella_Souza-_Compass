@@ -22,5 +22,3 @@ https://www.linkedin.com/in/manoellasouza/
 ## Créditos
 Lista de exercícios do **Programa de Bolsas RoboTron da Compass UOL**.
 
-Modelo de ReadMe: https://github.com/devsuperior/sds1-wmazoni/blob/master/README.md
-
