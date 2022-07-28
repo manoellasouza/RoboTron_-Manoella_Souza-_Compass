@@ -11,7 +11,8 @@ Lista de exercícios em Python realizada durante a Sprint 4 do **Programa de Bol
 - Manipular arquivos com Python
 
 ## Tecnologias utilizadas
-- Python
+- Python 3.10.5
+- Visual Studio Code
 
 ## Autora
 
