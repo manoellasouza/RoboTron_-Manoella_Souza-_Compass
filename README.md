@@ -4,25 +4,33 @@
 ## Sobre o projeto
 Exercícios em Python realizados durante a Sprint 4 do **Programa de Bolsas RoboTron** da Compass UOL. 
 
-## Objetivo
-- Reforçar conhecimentos sobre Git, GitHub e Python.
-
-## Instruções
 Para uma melhor organização as listas de exercícios estão divididas em duas pastas:
-- Lista 1: Treinando Lógica e Sintaxe com PYTHON
+- Lista 1: Treinando Lógica e Sintaxe com Python
 - Lista 2: Manipulação de Arquivos Python
 
+## Objetivo
+Reforçar conhecimentos sobre Git, GitHub e Python.
+
 ## Tecnologias utilizadas
-- Python 3.10.5
-- Visual Studio Code
+- <a href="https://www.python.org/downloads/">Python 3</a>
+- <a href="https://code.visualstudio.com/">Visual Studio Code</a>
+
+## Libs utilizadas
+- Datetime 
+- JSON
+- Pandas
 
 ## Autora
-Manoella Souza - https://www.linkedin.com/in/manoellasouza/
+<a href="https://www.linkedin.com/in/manoellasouza/">Manoella Souza</a>
 
-## Créditos
-Listas de exercícios do **Programa de Bolsas RoboTron da Compass UOL**.
+## Referências
+- Listas de exercícios do **Programa de Bolsas RoboTron da Compass UOL**.
+- <a href="https://youtu.be/AqvSMMcybTI">CFB Cursos</a> - Lista 1 - ex. 5
+- <a href="https://youtu.be/Qws8-E-YrlY">Curso em Vídeo</a> - Lista 1: ex. 6
+- <a href="https://www.pythonprogressivo.net/2018/05/Calcular-Fatorial-Python-FOR-WHILE.html">Python Progressivo</a> - Lista 1: ex. 8
+- <a href="https://programadoresdepre.com.br/como-calcular-data-e-hora-em-python/">Programadores Deprê</a> - Lista 1: ex. 11
+- Os colegas <a href="https://github.com/phconte">Paulo</a> e <a href="https://github.com/PFrek">Pedro</a> me auxiliaram, respectivamente, nos exercícios 2 e 13 da lista 2
 
-## Downloads
-- Python 3: https://www.python.org/downloads/
-- Visual Studio Code: https://code.visualstudio.com/
+
+
 
