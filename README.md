@@ -17,7 +17,7 @@ Reforçar conhecimentos sobre Git, GitHub e Python.
 - <a href="https://www.python.org/downloads/">Python 3</a>
 - <a href="https://code.visualstudio.com/">Visual Studio Code</a>
 
-## Libs utilizadas
+## Bibliotecas utilizadas
 - Datetime 
 - JSON
 - Pandas
