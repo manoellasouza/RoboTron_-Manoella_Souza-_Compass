@@ -31,6 +31,10 @@ Reforçar conhecimentos sobre Git, GitHub e Python.
 - <a href="https://programadoresdepre.com.br/como-calcular-data-e-hora-em-python/">Programadores Deprê</a> - Lista 1: ex. 11
 - Os colegas <a href="https://github.com/phconte">Paulo</a> e <a href="https://github.com/PFrek">Pedro</a> me auxiliaram, respectivamente, nos exercícios 2 e 13 da lista 2
 
+## Bastidores 
+
+<img align="left" alt="cat-pc" height="110" style="border-radius:50px;" src="https://media3.giphy.com/media/2IGcITcJg09VK/giphy.gif">  
+
 
 
 
