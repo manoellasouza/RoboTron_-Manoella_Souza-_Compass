@@ -1,5 +1,4 @@
 # 10- Crie um programa que recebe uma lista com três frutas e compare com uma lista com os valores ["maça", "banana", "pera"]
-# Referência: https://www.delftstack.com/pt/howto/python/compare-lists-python/
 
 i, x = 0, 0
 lista1=["maça", "banana", "pera"]; lista2=[]
