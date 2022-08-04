@@ -8,6 +8,8 @@ Para uma melhor organização as listas de exercícios estão divididas em duas 
 - Lista 1: Treinando Lógica e Sintaxe com Python
 - Lista 2: Manipulação de Arquivos Python
 
+Acesse clicando <a href="https://github.com/manoellasouza/RoboTron_Manoella_Souza_Compass/tree/develop">aqui</a>.
+
 ## Objetivo
 Reforçar conhecimentos sobre Git, GitHub e Python.
 
