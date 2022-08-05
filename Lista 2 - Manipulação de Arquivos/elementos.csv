@@ -1,0 +1,17 @@
+Simbolo,Nome,NumeroAtomico,Linha,Coluna,EstadoFisico
+H,Hidrogênio,1,1,1,Gás
+Li,Lítio,3,2,1,Sólido
+Na,Sódio,11,3,1,Sólido
+K,Potássio,19,4,1,Sólido 
+Hg,Mercúrio,80,6,12,Líquido
+Br,Bromo,35,4,17, Líquido
+He,Hélio,2,1,18,Gás
+F,Flúor,9,2,17,Gás
+Xe,Xenônio,54,5,18,Gás
+Hs,Hássio,108,7,8,Desconhecido
+Bh,Bóhrio,107,7,7,Desconhecido
+Mc,Moscóvio,115,7,15,Desconhecido
+O,Oxigênio,8,2,16,Gás
+Ra,Rádio,88,7,2,Sólido
+Ni,Níquel,28,4,10,Sólido
+
