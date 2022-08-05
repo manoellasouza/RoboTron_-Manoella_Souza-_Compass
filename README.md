@@ -16,11 +16,27 @@ Reforçar conhecimentos sobre Git, GitHub e Python.
 ## Tecnologias utilizadas
 - <a href="https://www.python.org/downloads/">Python 3</a>
 - <a href="https://code.visualstudio.com/">Visual Studio Code</a>
+- <a href="https://git-scm.com/downloads">Git</a>
 
 ## Bibliotecas utilizadas
 - Datetime 
 - JSON
 - Pandas
+
+ ## Rodando o projeto
+ ````bash 
+# Crie uma pasta na sua máquina
+
+# Abra o Git Bash dentro da pasta
+
+# Clone este repositório 
+# git clone https://github.com/manoellasouza/RoboTron_Manoella_Souza_Compass.git . 
+
+# Altere a branch para acessar os arquivos
+# git checkout develop
+
+# Abra o VS Code dentro da pasta e rode os exercícios
+````
 
 ## Autora
 <a href="https://www.linkedin.com/in/manoellasouza/">Manoella Souza</a>
