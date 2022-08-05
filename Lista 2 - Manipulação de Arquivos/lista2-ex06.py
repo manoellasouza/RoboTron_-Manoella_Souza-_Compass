@@ -15,7 +15,7 @@ print("Edição id: ",edicao["edicao_id"])
 print("Temporada: ",edicao["temporada"])
 
 fase= json_retornado["fase_atual"] 
-print("Fase atual: ",fase["fase_id"])
+print("Fase id: ",fase["fase_id"])
 print("Nome: ",fase["nome"])
 
 rodada=json_retornado["rodada_atual"]
